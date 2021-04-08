@@ -2,7 +2,7 @@
 <project>
 	<!-- _________________________ Application Settings _________________________ -->
 
-	<app title="Friday Night Funkin'" main="Main" />
+	<app title="테스트 제목" main="Main" />
 
 	<!-- _______________________________ Libraries ______________________________ -->
 
